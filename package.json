@@ -1,0 +1,22 @@
+{
+  "name": "test-view",
+  "version": "1.0.0",
+  "description": "test view js",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "6.21.0",
+    "babel-loader": "6.2.10",
+    "babel-preset-es2015": "6.18.0",
+    "css-loader": "0.26.1",
+    "live-server": "1.2.0",
+    "vue": "2.1.9",
+    "vue-loader": "10.0.2",
+    "webpack": "1.14.0"
+  }
+}
